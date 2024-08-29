@@ -2,8 +2,8 @@
 
 
 - 👋 I’m @SmartUIAB
-- 👀 I’m interested in write C#, Nodejs and React code.
-- 🌱 I’m currently learning as System developer in Sweden and Data tekniker in Syrian.
+- 👀 I’m interested to build a commerce website with C# or Nodejs and React.
+- 🌱 I’m currently learning more about C# and React.
 - 💞️ I’m looking to collaborate to build projects.
 - 📫 You can reach me on highstyle.se
 - 😄 Pronouns: helpfull.
