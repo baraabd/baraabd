@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 👋 I’m @SmartUIAB
+- 👋 I’m @BaraaAbd
 - 👀 I’m interested to build a commerce website with C# or Nodejs and React.
 - 🌱 I’m currently learning more about C# and React.
 - 💞️ I’m looking to collaborate to build projects.
