@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate to build projects.
 - 📫 You can reach me on highstyle.se
 - 😄 Pronouns: helpfull.
-- ⚡ Fun fact: I'm 45 years old.
+- ⚡ Fun fact: I'm 45 years old with extensive application programming experience.
 
 <!---
 SmartUIAB/SmartUIAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
