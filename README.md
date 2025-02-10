@@ -2,10 +2,10 @@
 
 
 - 👋 I’m @BaraaAbd
-- 👀 I’m interested to build a commerce website with C# or Nodejs and React.
+- 👀 I’m interested to build websites with C#, PHP, Nodejs and React.
 - 🌱 I’m currently learning more about C# and React.
 - 💞️ I’m looking to collaborate to build projects.
-- 📫 You can reach me on highstyle.se
+- 📫 You can reach me on bara.abdullatif@outlook.com or syriamarket.se
 - 😄 Pronouns: helpfull.
 - ⚡ Fun fact: I'm 45 years old with extensive application programming experience.
 
